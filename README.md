@@ -30,6 +30,7 @@ Two hard dependencies:
 	* `./manage.py syncdb` 
 	* If using south `./manage.py migrate ios_notifications`
 
+NOTE : if you haven't setup your admin site, follow the instructions here : http://www.djangobook.com/en/2.0/chapter06.html
 
 Setting up the APN Services
 -----------------
